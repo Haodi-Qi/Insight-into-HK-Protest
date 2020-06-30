@@ -11,4 +11,6 @@ The final deliverables are one report of the entire project including how we scr
 
 The tools and technology used are Twitter Streaming API and PRAW (Python Reddit API Wrapper) for data scraping; NLTK, Gensim, Textblob, WordCloud for text analysis; Networkx and Gephi for network analysis and visualization.
 
+We also published our project and findings on the website https://thesupremepresses.wordpress.com/. 
+
 Credit to Team members: BU Wende, JIANG Hanyu, ZHANG Chengzi; Supervisor: Kyong Jin Shim
